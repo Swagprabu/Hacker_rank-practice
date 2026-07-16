@@ -1,4 +1,4 @@
-# Arithmetic Operators
+# Python: Division
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -48,15 +48,14 @@ Print the two lines as described above.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T03:09:55.646Z  
+**Submitted:** 2026-07-16T03:12:33.202Z  
 
 ```py
-a = int(input())
-b = int(input())
+a = int(input()) 
+b= int(input())
 
-print(a+b) 
-print(a-b) 
-print(a*b) 
+print(a//b) 
+print(a/b)
 
 ```
 
