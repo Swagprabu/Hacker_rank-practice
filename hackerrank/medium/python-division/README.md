@@ -48,7 +48,7 @@ Print the two lines as described above.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-16T03:12:33.202Z  
+**Submitted:** 2026-07-16T03:27:57.816Z  
 
 ```py
 a = int(input()) 
